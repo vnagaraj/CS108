@@ -2,11 +2,11 @@ Part1:
 Implemented a GUI based Sudoku version
 
 Technologies Used: 
-Swings, Java
+Swing, Java
 
 
 Part2:
 A GUI-based application which will allow a user to access the sample metropolises database 
 
 Technolgies Used:
-Java, Swings, MySql
+Java, Swing, MySql
